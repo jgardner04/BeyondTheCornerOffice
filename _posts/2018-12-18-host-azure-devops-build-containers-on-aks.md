@@ -5,6 +5,9 @@ date:   2018-12-18 16:00:00
 categories: Technology
 tags: [Azure, AKS, DevOps]
 author: Jonathan
+cover-img: '/assets/img/posts/halacious-Nzb4LBsctyQ-unsplash.jpg'
+imagecredit_id: '@halacious'
+imagecredit_name: 'Halacious'
 sharing:
   twitter: Host Azure DevOps Build containers on AKS #Azure #DevOps #AKS
   linkedin: Host Azure DevOps Build containers on AKS
