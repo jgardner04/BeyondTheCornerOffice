@@ -9,7 +9,6 @@ cover-img: '/assets/img/posts/markos-mant-0nKRq0IknHw-unsplash.jpg'
 imagecredit_id: '@markos_mant'
 imagecredit_name: 'Markos Mant'
 share-description: Controlling Helm Deployments with Terraform #Terraform #DevOps #Helm
-
 ---
 
 Recently I have been working on a project to compare the performance of an application on Azure VMs and running on the Azure Kubernetes Service. To streamline the infrastructure deployment, the team centralized deployments using [HashiCorp’s Terraform](//www.hashicorp.com/products/terraform). In trying to deploy our application completely via Terraform we ran into some issues that led us to move the deployment to a Helm chart. The Helm deployment via Terraform had a few quirks as well. This article will talk about the journey and how I finally accomplished the application deployment.
