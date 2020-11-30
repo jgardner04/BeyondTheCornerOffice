@@ -9,6 +9,9 @@ cover-img: '/assets/img/posts/dominik-luckmann-SInhLTQouEk-unsplash.jpg'
 imagecredit_id: '@exdigy'
 imagecredit_name: 'Dominik Lückmann'
 share-description: Deploy the Spark Operator on Kubernetes Via Helm 3 #Spark #Helm
+sharing:
+  twitter: Deploy the Spark Operator on Kubernetes Via Helm 3 #Spark #Helm
+  linkedin: Deploy the Spark Operator on Kubernetes Via Helm 3
 ---
 
 [Apache Spark](//spark.apache.org) is a high performance batch processing engine who's power draws from the distributed processing of data. A single job is parsed out to multiple worker nodes to compute. [Kubernetes](//kubernetes.io) native scheduler and job processing is driving more and more companies to investigate using the two platforms together. Currently [Kubernetes scheduler support](//spark.apache.org/docs/latest/running-on-kubernetes.html) is available but considered experimental. 
