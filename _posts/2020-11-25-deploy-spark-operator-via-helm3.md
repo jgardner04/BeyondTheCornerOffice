@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deploy the Spark Operator on Kubernetes Via Helm 3"
-date:   2020-11-30 16:00:00
+date:   2020-11-30 16:00 -0800
 categories: Technology
 tags: [ Spark, Helm, DevOps]
 author: Jonathan
